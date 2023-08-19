@@ -1,0 +1,37 @@
+[
+  {
+    "especie": "tartaruga-pintada",
+    "nome": "robson",
+    "idade": "77",
+    "descricao": "nao gosta de velocidade",
+    "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/01/tipos-de-tartaruga-reptil-1280x720.jpg"
+  },
+  {
+    "especie": "tartaruga-da-madeira",
+    "nome": "huguei",
+    "idade": "99",
+    "descricao": "gosta de velocidade",
+    "imagem": "https://pbs.twimg.com/media/ESTHtf1XcAEzk4v.jpg"
+  },
+  {
+    "especie": "tartaruga-russa",
+    "nome": "serena",
+    "idade": "14",
+    "descricao": "ama de vodka",
+    "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/01/tipos-de-tartaruga-reptil-1280x720.jpg"
+  },
+  {
+    "especie": "tartaruga-tigre-dagua",
+    "nome": "geronimo",
+    "idade": "88",
+    "descricao": "gosta de dormir",
+    "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/01/tipos-de-tartaruga-reptil-1280x720.jpg"
+  },
+  {
+    "especie": "cagados",
+    "nome": "mya",
+    "idade": "63",
+    "descricao": "ama brincar",
+    "imagem": "https://www.petz.com.br/blog/wp-content/uploads/2021/01/tipos-de-tartaruga-reptil-1280x720.jpg"
+  }
+]

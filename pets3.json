@@ -1,0 +1,38 @@
+[
+    {
+      "especie": "corvo-corax",
+      "nome": "jubileu",
+      "idade": "5",
+      "descricao": "gosta de pipoca",
+      "image": "https://t1.ea.ltmcdn.com/pt/posts/3/3/4/corvus_bennetti_24433_3_600.jpg"
+    },
+    {
+      "especie": "corvo-malhado",
+      "nome": "cbum",
+      "idade": "7",
+      "descricao": "gosta de proteina",
+      "image": "https://t1.ea.ltmcdn.com/pt/posts/3/3/4/corvus_bennetti_24433_3_600.jpg"
+    },
+    {
+      "especie": "corvus-bennett",
+      "nome": "benedito",
+      "idade": "5",
+      "descricao": "gosta de pipoca",
+      "image": "https://t1.ea.ltmcdn.com/pt/posts/3/3/4/corvus_bennetti_24433_3_600.jpg"
+    },
+    {
+      "especie": "corvo-do-havaí",
+      "nome": "agnaldo",
+      "idade": "11",
+      "descricao": "gosta de canta musica havaiana",
+      "image": "https://t1.ea.ltmcdn.com/pt/posts/3/3/4/corvus_bennetti_24433_3_600.jpg"
+    },
+    {
+      "especie": "corvo-americano",
+      "nome": "sakura",
+      "idade": "6",
+      "descricao": "gosta de bicar os outros",
+      "image": "https://t1.ea.ltmcdn.com/pt/posts/3/3/4/corvus_bennetti_24433_3_600.jpg"
+    }
+  ]
+  
